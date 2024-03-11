@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "185fddb940ea8dda",
+        "id": "d67c112a7fdc2a02",
         "type": "tabs",
         "children": [
           {
-            "id": "94c6c8e28eab54d1",
+            "id": "62d894df6d05a1a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "repositry/文件一/测试笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "repositry/文件一/测试笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "repositry/文件一/测试笔记.md"
+              }
             }
           },
           {
@@ -146,10 +150,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94c6c8e28eab54d1",
+  "active": "4240f84a38f1d400",
   "lastOpenFiles": [
-    "repositry/测试笔记二.md",
-    "repositry/测试笔记.md",
+    "repositry/文件二",
+    "repositry/文件一",
+    "repositry/文件一/测试笔记二.md",
+    "repositry/文件一/测试笔记.md",
     "Welcome.md",
     "repositry",
     "新建文件夹"
