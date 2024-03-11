@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d67c112a7fdc2a02",
+        "id": "3ba7cd815c4c176c",
         "type": "tabs",
         "children": [
           {
-            "id": "62d894df6d05a1a6",
+            "id": "bf0431a2ab22e75c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "repositry/文件一/测试笔记.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -150,12 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4240f84a38f1d400",
+  "active": "bf0431a2ab22e75c",
   "lastOpenFiles": [
+    "repositry/文件一/测试笔记.md",
     "repositry/文件二",
     "repositry/文件一",
     "repositry/文件一/测试笔记二.md",
-    "repositry/文件一/测试笔记.md",
     "Welcome.md",
     "repositry",
     "新建文件夹"
