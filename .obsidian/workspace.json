@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repositry/文件一/测试笔记.md",
+                "file": "repositry/文件一/测试.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repositry/文件一/测试笔记.md",
+                "file": "repositry/文件一/测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repositry/文件一/测试笔记.md",
+                "file": "repositry/文件一/测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repositry/文件一/测试笔记.md"
+                "file": "repositry/文件一/测试.md"
               }
             }
           },
@@ -154,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f566a774d5f2e83",
+  "active": "bf0431a2ab22e75c",
   "lastOpenFiles": [
     "repositry/文件一/测试笔记二.md",
-    "repositry/文件一/测试笔记.md",
+    "repositry/文件一/测试.md",
     "repositry/文件二",
     "repositry/文件一",
     "Welcome.md",
