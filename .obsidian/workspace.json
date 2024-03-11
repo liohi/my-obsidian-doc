@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "82c6d7c3ed40cada",
+    "id": "d23e9070c48a3bb3",
     "type": "split",
     "children": [
       {
-        "id": "3ba7cd815c4c176c",
+        "id": "2ee8e94577d1ea39",
         "type": "tabs",
         "children": [
           {
-            "id": "bf0431a2ab22e75c",
+            "id": "a50fb316337e71e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repositry/文件一/测试.md",
+                "file": "作业/智能网联汽车信息安全/实验二：身份认证.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e1a9dec3ffab896a",
+    "id": "669e3df2465ff161",
     "type": "split",
     "children": [
       {
-        "id": "e883916645f99b15",
+        "id": "127e46c546b61ec4",
         "type": "tabs",
         "children": [
           {
-            "id": "2f566a774d5f2e83",
+            "id": "bb0f98d957457f8b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "644af66ac64fe803",
+            "id": "a6144215676c672f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5e97f09d0f6454b9",
+            "id": "9a8bed23e52349cf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "0a5c5f604731a595",
+    "id": "d1e1d4d6ef4b3b18",
     "type": "split",
     "children": [
       {
-        "id": "4ad5dcb939a8f589",
+        "id": "780b49b6b91101e1",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f816fdbfa3631d",
+            "id": "87cddf5feb829bec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repositry/文件一/测试.md",
+                "file": "作业/智能网联汽车信息安全/实验二：身份认证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "a739ae84a9860230",
+            "id": "132d7d6232a257b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repositry/文件一/测试.md",
+                "file": "作业/智能网联汽车信息安全/实验二：身份认证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "75ba7b51af7f4718",
+            "id": "dc34ea3b044f30c5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "7d3b4ea6cfbd03b1",
+            "id": "79a90f2596cd1f5a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "repositry/文件一/测试.md"
+                "file": "作业/智能网联汽车信息安全/实验二：身份认证.md"
               }
             }
           },
           {
-            "id": "4240f84a38f1d400",
+            "id": "3249aa091a6a2656",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,14 +154,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf0431a2ab22e75c",
+  "active": "a50fb316337e71e7",
   "lastOpenFiles": [
     "repositry/文件一/测试笔记二.md",
     "repositry/文件一/测试.md",
-    "repositry/文件二",
     "repositry/文件一",
-    "Welcome.md",
     "repositry",
-    "新建文件夹"
+    "未命名.canvas",
+    "作业/智能网联汽车信息安全/实验二：身份认证.md",
+    "作业/智能网联汽车信息安全/实验三：安全启动.md",
+    "作业/智能网联汽车信息安全/实验三.imgs",
+    "作业/智能网联汽车信息安全/实验三.imgs/Pasted image 20240311135753.png",
+    "未命名",
+    "作业/智能网联汽车信息安全/实验二.imgs/Pasted image 20240311135610.png",
+    "作业/智能网联汽车信息安全/实验二.imgs",
+    "作业/智能网联汽车信息安全/实验二.imgs/Pasted image 20240311135547.png",
+    "作业/智能网联汽车信息安全/实验一：密码技术.md",
+    "毕业设计/草稿.md",
+    "毕业设计/imgs",
+    "毕业设计",
+    "作业/智能网联汽车信息安全/实验一.imgs/Pasted image 20240310143353.png",
+    "作业/智能网联汽车信息安全/实验一.imgs",
+    "作业/智能网联汽车信息安全/实验一.imgs/Pasted image 20240310143300.png",
+    "作业/智能网联汽车信息安全/实验一.imgs/Pasted image 20240310143305.png",
+    "作业/智能网联汽车信息安全/实验一.imgs/Pasted image 20240310143608.png",
+    "作业/智能网联汽车信息安全/实验一.imgs/Pasted image 20240310143551.png",
+    "作业/智能网联汽车信息安全/实验一.imgs/Pasted image 20240310143536.png",
+    "作业/智能网联汽车信息安全/实验一.imgs/Pasted image 20240310143521.png",
+    "作业/智能网联汽车信息安全",
+    "作业"
   ]
 }
